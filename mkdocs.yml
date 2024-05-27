@@ -1,0 +1,25 @@
+site_name: TEv2 ctwg Main Glossary
+site_url: https://kordwarshuis.github.io/tev2-ctwg-main-glossary/
+theme: material
+nav:
+    - Home: index.md
+
+repo_url: "https://github.com/kordwarshuis/tev2-ctwg-main-glossary"
+repo_name: "TEv2 ctwg Main Glossary"
+
+# Assuming your Markdown files are directly in the /docs folder
+docs_dir: docs
+
+# This is where the built site will be output, which GitHub Actions can then deploy
+site_dir: site
+
+# Plugins can be added here
+plugins:
+    - search
+
+markdown_extensions:
+    - pymdownx.highlight:
+          use_pygments: true
+          # known pygments_styles: monokai, friendly, colorful, solarized-dark, solarized-light
+          pygments_style: solarized-dark
+    - pymdownx.extra
