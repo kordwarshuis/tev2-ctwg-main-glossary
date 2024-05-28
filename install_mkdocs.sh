@@ -4,4 +4,4 @@
 
 # Install mkdocs, mkdocs-material, pymdown-extensions, and pygments.
 python -m pip install --upgrade pip
-pip install mkdocs mkdocs-material pymdown-extensions pygments
+pip install mkdocs mkdocs-material pymdown-extensions pygments mkdocs-awesome-pages-plugin
