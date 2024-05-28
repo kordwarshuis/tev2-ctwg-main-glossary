@@ -3,7 +3,7 @@
 term: authenticator-assurance-level
 # Spec-up section
 spec-up-term: "authenticator assurance level"
-spec-up-aliases: [ "authenticatorassurancelevel" ]
+spec-up-aliases: [ "authenticatorassurancelevel", "AAL"]
 spec-up-definition: "A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it."
 ---
 
