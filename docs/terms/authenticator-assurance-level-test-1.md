@@ -5,6 +5,12 @@ term: authenticator-assurance-level
 spec-up-term: "authenticator assurance level"
 spec-up-aliases: [ "authenticatorassurancelevel" ]
 spec-up-definition: "A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it."
+# TEv2 specific frontmatter (can be discarded if you only use Spec-Up)
+formPhrases: [ "hosepipe", "hose" ]
+glossaryTerm: "Garden hose"
+glossaryText: "A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it."
+glossaryNotes:
+- "Like [[ref: Term 1]] and [[ref: Term Two]], this term is defined for illustration purposes only."
 ---
 
 
