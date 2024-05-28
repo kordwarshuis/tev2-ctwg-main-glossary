@@ -1,3 +1,19 @@
+---
+# Front matter for TEv2 Curated Texts that is required
+term: authenticator-assurance-level
+# Spec-up section
+spec-up-term: "authenticator assurance level"
+spec-up-aliases: [ "authenticatorassurancelevel" ]
+spec-up-definition: "A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it."
+# TEv2 specific frontmatter (can be discarded if you only use Spec-Up)
+formPhrases: [ "hosepipe", "hose" ]
+glossaryTerm: "Garden hose"
+glossaryText: "A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it."
+glossaryNotes:
+- "Like [[ref: Term 1]] and [[ref: Term Two]], this term is defined for illustration purposes only."
+---
+
+
 [[def: authenticator assurance level, AAL]]
 
 ~ A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it.
@@ -9,4 +25,3 @@
 ~ See also: [[ref: federation assurance level]], [[ref: identity assurance level]], [[ref: identity binding]].
 
 ~ Note: In [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/sp800-63-3.html), AAL is defined in terms of three levels: AAL1 (Some confidence), AAL2 (High confidence), AAL3 (Very high confidence).
-
