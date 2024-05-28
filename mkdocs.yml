@@ -1,12 +1,12 @@
 site_name: TEv2 ctwg Main Glossary
 site_url: https://kordwarshuis.github.io/tev2-ctwg-main-glossary/
 theme: material
-nav:
-    - Home: index.md
-    # - Terms:
-    #       - Access Control: terms/access-control.md
-    #       - Action: terms/action.md
-    #       - Administering Body: terms/administering-body.md
+# nav:
+# - Home: index.md
+# - Terms:
+#       - Access Control: terms/access-control.md
+#       - Action: terms/action.md
+#       - Administering Body: terms/administering-body.md
 
 repo_url: "https://github.com/kordwarshuis/tev2-ctwg-main-glossary"
 repo_name: "TEv2 ctwg Main Glossary"
@@ -20,7 +20,8 @@ site_dir: site
 # Plugins can be added here
 plugins:
     - search
-    - awesome-pages
+    - awesome-pages:
+          collapse_single_pages: true
 
 markdown_extensions:
     - pymdownx.highlight:
