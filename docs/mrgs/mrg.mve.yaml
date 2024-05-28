@@ -1,0 +1,27 @@
+terminology:
+  scopetag: "mve"
+  scopedir: "https://github.com/kordwarshuis/tev2-ctwg-main-glossary/tree/main/docs"
+  curatedir: "terms"
+  glossarydir: "mrgs"
+  defaultvsn: "tev2-ctwg-main-glossary-terms"
+  website: "https://dwarshuis.com/test/tev2-ctwg-main-glossary/"
+  navpath: "/terms"
+  navid: "term"
+  defaulttype: "concept"
+  vsntag: "tev2-ctwg-main-glossary-terms"
+scopes: []
+entries:
+  - term: "authenticator-assurance-level"
+    spec-up-term: "authenticator assurance level"
+    spec-up-aliases:
+      - "authenticatorassurancelevel"
+    spec-up-definition: "A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it."
+    formPhrases:
+      - "authenticator-assurance-level"
+    termType: "concept"
+    scopetag: "mve"
+    locator: "authenticator-assurance-level.md"
+    navurl: "https://dwarshuis.com/test/tev2-ctwg-main-glossary/terms/authenticator-assurance-level"
+    headingids: []
+    termid: "concept:authenticator-assurance-level"
+    vsntag: "tev2-ctwg-main-glossary-terms"
